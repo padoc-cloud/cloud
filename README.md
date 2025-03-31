@@ -5,8 +5,8 @@
  <a href="https://www.linkedin.com/in/rajko-kalicanin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <details open>
   <summary>📈 <b>Github stats:</b></summary>
-  <img src="https://github.com/padoc-cloud/cloud/blob/master/scripts/GitHubStats/generated/overview.svg"/>
-  <img src="https://github.com/padoc-cloud/cloud/blob/master/scripts/GitHubStats/generated/languages.svg"/>
+  <img src="https://github.com/padoc-cloud/cloud/blob/main/scripts/GitHubStats/generated/overview.svg"/>
+  <img src="https://github.com/padoc-cloud/cloud/blob/main/scripts/GitHubStats/generated/languages.svg"/>
 </details>
 </div>
 
@@ -85,7 +85,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/padoc-cloud/cloud/master/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/padoc-cloud/cloud/main/assets/bar_graph.png)
 
 
  Last Updated on 31/03/2025 21:05:31 UTC
